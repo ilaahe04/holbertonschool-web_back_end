@@ -1,4 +1,4 @@
-/*eslint*disable*/
+/*eslint-disable*/
 export default function getStudentIdsSum(students) {
 	if (!Array.isArray(students)) {
 		return 0;
